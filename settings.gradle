@@ -1,0 +1,4 @@
+include ':app', ':mynet', 'SharedPreferencesTes', ':material', ':ListView', 'RecyclerViewTest', 'CameraAlbumTest', ':serviece', ':getImage', 'NotificationTest'
+include ':viewPagerDemo'
+include ':imageChange'
+include ':baiduNaviSDK_3_2_0_SimpleDemo'

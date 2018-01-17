@@ -1,0 +1,120 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "103,58,157",
+                        "endColumns": "52,43,52",
+                        "endOffsets": "151,97,205"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,266",
+                        "endColumns": "52,43,52",
+                        "endOffsets": "217,261,314"
+                    }
+                },
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "191,522,691",
+                        "endLines": "12,17,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "481,679,1036"
+                    },
+                    "to": {
+                        "startLines": "7,14,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "319,610,770",
+                        "endLines": "13,16,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "605,765,1109"
+                    }
+                },
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "103,58,157",
+                        "endColumns": "52,43,52",
+                        "endOffsets": "151,97,205"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,266",
+                        "endColumns": "52,43,52",
+                        "endOffsets": "217,261,314"
+                    }
+                },
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "191,522,691",
+                        "endLines": "12,17,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "481,679,1036"
+                    },
+                    "to": {
+                        "startLines": "7,14,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "319,610,770",
+                        "endLines": "13,16,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "605,765,1109"
+                    }
+                },
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Soft_Ware\android\Android_Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CameraAlbumTest" />
+            <option value="$PROJECT_DIR$/ListView" />
+            <option value="$PROJECT_DIR$/NotificationTest" />
+            <option value="$PROJECT_DIR$/RecyclerViewTest" />
+            <option value="$PROJECT_DIR$/SharedPreferencesTes" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo" />
+            <option value="$PROJECT_DIR$/getImage" />
+            <option value="$PROJECT_DIR$/imageChange" />
+            <option value="$PROJECT_DIR$/material" />
+            <option value="$PROJECT_DIR$/mynet" />
+            <option value="$PROJECT_DIR$/serviece" />
+            <option value="$PROJECT_DIR$/viewPagerDemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

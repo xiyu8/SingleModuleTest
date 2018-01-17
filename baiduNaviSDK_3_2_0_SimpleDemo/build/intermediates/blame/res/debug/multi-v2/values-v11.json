@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "179",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "313"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "179",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "313"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

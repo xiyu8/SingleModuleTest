@@ -1,0 +1,811 @@
+[
+    {
+        "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 57,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 55,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 78,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 78,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 46,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 89,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 89,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 56,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2459,
+                        "endColumn": 56,
+                        "endOffset": 2511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 71,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2574,
+                        "endColumn": 71,
+                        "endOffset": 2641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 57,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2516,
+                        "endColumn": 57,
+                        "endOffset": 2569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 72,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2646,
+                        "endColumn": 72,
+                        "endOffset": 2714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 48,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 48,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 38,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2395,
+                        "endColumn": 38,
+                        "endOffset": 2429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 37,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endColumn": 37,
+                        "endOffset": 2390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endColumn": 63,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 980,
+                        "endColumn": 63,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 61,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 61,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1234,
+                    "endColumn": 45,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 45,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 62,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 62,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 47,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1281,
+                        "endColumn": 47,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 44,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 44,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 46,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 46,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1483,
+                    "endColumn": 46,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 46,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 43,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 43,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 105,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 105,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endColumn": 45,
+                    "endOffset": 1721
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 45,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1726,
+                    "endColumn": 44,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 44,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 57,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endColumn": 57,
+                        "endOffset": 2123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endColumn": 70,
+                    "endOffset": 1895
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 70,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1900,
+                    "endColumn": 83,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endColumn": 83,
+                        "endOffset": 2352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 61,
+                    "endOffset": 2041
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 61,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2046,
+                    "endColumn": 63,
+                    "endOffset": 2105
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endColumn": 63,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2110,
+                    "endColumn": 73,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2199,
+                        "endColumn": 73,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endColumn": 76,
+                    "endOffset": 2256
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 76,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2261,
+                    "endColumn": 64,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 64,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endColumn": 71,
+                    "endOffset": 2393
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 71,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2398,
+                    "endColumn": 72,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 72,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 75,
+                    "endOffset": 2542
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1442,
+                        "endColumn": 72,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2547,
+                    "endColumn": 72,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1515,
+                        "endColumn": 69,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 68,
+                    "endOffset": 2684
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endColumn": 68,
+                        "endOffset": 2065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2689,
+                    "endColumn": 46,
+                    "endOffset": 2731
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 46,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2736,
+                    "endColumn": 47,
+                    "endOffset": 2779
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 47,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2784,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3070
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3075,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

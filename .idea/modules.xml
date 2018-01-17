@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraAlbumTest/CameraAlbumTest.iml" filepath="$PROJECT_DIR$/CameraAlbumTest/CameraAlbumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationTest/NotificationTest.iml" filepath="$PROJECT_DIR$/NotificationTest/NotificationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewTest/RecyclerViewTest.iml" filepath="$PROJECT_DIR$/RecyclerViewTest/RecyclerViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceBestPractice.iml" filepath="$PROJECT_DIR$/ServiceBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferencesTes/SharedPreferencesTes.iml" filepath="$PROJECT_DIR$/SharedPreferencesTes/SharedPreferencesTes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo/baiduNaviSDK_3_2_0_SimpleDemo.iml" filepath="$PROJECT_DIR$/baiduNaviSDK_3_2_0_SimpleDemo/baiduNaviSDK_3_2_0_SimpleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getImage/getImage.iml" filepath="$PROJECT_DIR$/getImage/getImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageChange/imageChange.iml" filepath="$PROJECT_DIR$/imageChange/imageChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material/material.iml" filepath="$PROJECT_DIR$/material/material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynet/mynet.iml" filepath="$PROJECT_DIR$/mynet/mynet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviece/serviece.iml" filepath="$PROJECT_DIR$/serviece/serviece.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerDemo/viewPagerDemo.iml" filepath="$PROJECT_DIR$/viewPagerDemo/viewPagerDemo.iml" />
+    </modules>
+  </component>
+</project>

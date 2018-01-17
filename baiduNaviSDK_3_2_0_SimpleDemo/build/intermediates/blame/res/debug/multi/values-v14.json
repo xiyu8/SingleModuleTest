@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\baiduNaviSDK_3_2_0_SimpleDemo\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 223,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 371
+                    }
+                }
+            }
+        ]
+    }
+]

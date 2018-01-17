@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\viewPagerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\viewPagerDemo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\viewPagerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_search.png",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\viewPagerDemo\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    }
+]

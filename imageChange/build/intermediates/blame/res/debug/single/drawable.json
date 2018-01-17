@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_normal.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_top_pressed.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\drawable\\btn_top_pressed.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_focused.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bk.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\drawable\\title_bk.xml"
+    },
+    {
+        "merged": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_selector.xml",
+        "source": "D:\\WorkPlace\\AndroidProject\\ServiceBestPractice\\imageChange\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    }
+]
